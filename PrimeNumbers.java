@@ -61,7 +61,7 @@ public class PrimeNumbers {
 	 */
 	public static void main(String[] args) {
 				
-		System.out.println("Listing Prime Numbers from " + firstNum + " to " + lastNum);
+		System.out.println("Listing Prime Numbers :");
 		System.out.println(PrimeNumbers.getEven(1,100));
 	}
 
